@@ -1,0 +1,2 @@
+xmin ymin zmin resolution nbex nbey nbez
+93.646 89.723 99.376 2.209528642999389 16 10 12
